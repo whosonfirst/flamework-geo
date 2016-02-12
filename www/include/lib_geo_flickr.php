@@ -1,5 +1,0 @@
-<?php
-
-	# please write me...
-
-?>
